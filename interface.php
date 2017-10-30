@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<form method="post" action="shujukulianjie.php">
+<form method="post" action="insert.php">
 
     <div style="background:url('http://4493bz.1985t.com/uploads/allimg/141227/4-14122G02344.jpg') " >
 
