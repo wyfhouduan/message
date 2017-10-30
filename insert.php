@@ -10,7 +10,7 @@ $sql="use liuyanban;INSERT into massage(id,biaoti,xingming,liuyan,lastdate)VALUE
 mysqli_query($conn,$sql);
 
 mysqli_close($conn);
-header("location:4.php");
+header("location:message.php");
 exit();
 
 ?>
