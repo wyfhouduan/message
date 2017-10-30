@@ -11,6 +11,7 @@
 
 <div style="text-align: center;margin: 20px;color: white">
     <h1>霍格沃茨留下了你的足迹！</h1>
+    <a href = " http://127.0.0.1/delete.php " style="color:white ; " >删除留言</a>;
     <?php
     $sql="select * from massage ORDER BY id DESC ";
     $result=mysqli_query($sql);
